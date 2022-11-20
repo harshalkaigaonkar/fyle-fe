@@ -1,7 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import RepoItem from './RepoItem';
-import BottomBar from '../layout/BottomBar';
 
 const Repos = ({ repos }) => {
   return (
